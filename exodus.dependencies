@@ -2,13 +2,5 @@
   {
     "repository": "Exodus-Devices/lge_g3-common",
     "target_path": "device/lge/g3-common"
-  },
-  {
-    "repository": "Exodus-Vendors/lge_ls990",
-    "target_path": "vendor/lge/ls990"
-  },
-  {
-    "repository": "Exodus-Vendors/lge_g3-common",
-    "target_path": "vendor/lge/g3-common"
   }
 ]
